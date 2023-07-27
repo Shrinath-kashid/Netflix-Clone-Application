@@ -77,6 +77,13 @@ backend URL: https://netflix-clone-22e1.onrender.com
 - [firease](https://firebase.google.com) - signin and signup
  
  [TODO](../TODO.md) 
+ 
+create signup page.
+create user account page.
+create home page and in the including like : Tvshows , movies , myList , search bar etc .
+then after if i click home and showing movies and if i clicked movies then it will show my list page .like add movies .& remove movies we can do it this things .
+and also we can login and logout page and also we can create new user .
+
 
 
 
